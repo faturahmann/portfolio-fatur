@@ -1,0 +1,29 @@
+/* body {
+    min-height: 20000px;
+} */
+
+.jumbrotom {
+    background-color: lightsteelblue;
+    padding-top: 200px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.about-section {
+    padding-top: 100px;
+}
+
+.project-section {
+    padding-top: 100px;
+}
+
+.tools-skills-section {
+    padding-top: 100px;
+}
+
+.contact-section {
+    padding-top: 100px;
+}
